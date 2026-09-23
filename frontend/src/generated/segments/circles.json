@@ -1,0 +1,1023 @@
+{
+  "key": "circles|s42|i200|sc1|w800|h1000|sw1.5|o0.8|pff6b35-f7c59f-efefd0-004e89-1a659e",
+  "pattern": "circles",
+  "params": {
+    "seed": 42,
+    "iterations": 200,
+    "scale": 1,
+    "strokeWidth": 1.5,
+    "opacity": 0.8,
+    "width": 800,
+    "height": 1000,
+    "palette": [
+      "#ff6b35",
+      "#f7c59f",
+      "#efefd0",
+      "#004e89",
+      "#1a659e"
+    ]
+  },
+  "segments": [
+    {
+      "pattern": "circles",
+      "index": 0,
+      "svg": "<circle cx=\"480.9\" cy=\"448.3\" r=\"73.2\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 1,
+      "svg": "<circle cx=\"535.8\" cy=\"174.8\" r=\"47.1\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 2,
+      "svg": "<circle cx=\"218.6\" cy=\"624.7\" r=\"74.2\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 3,
+      "svg": "<circle cx=\"377.9\" cy=\"249.9\" r=\"75.6\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 4,
+      "svg": "<circle cx=\"596.6\" cy=\"307.0\" r=\"20.8\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 5,
+      "svg": "<circle cx=\"400.6\" cy=\"686.6\" r=\"53.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 6,
+      "svg": "<circle cx=\"3.1\" cy=\"470.8\" r=\"72.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 7,
+      "svg": "<circle cx=\"41.0\" cy=\"592.3\" r=\"7.5\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 8,
+      "svg": "<circle cx=\"213.6\" cy=\"61.8\" r=\"19.9\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 9,
+      "svg": "<circle cx=\"626.8\" cy=\"530.3\" r=\"7.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 10,
+      "svg": "<circle cx=\"138.4\" cy=\"842.7\" r=\"44.0\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 11,
+      "svg": "<circle cx=\"647.2\" cy=\"319.5\" r=\"41.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 12,
+      "svg": "<circle cx=\"30.0\" cy=\"51.4\" r=\"49.5\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 13,
+      "svg": "<circle cx=\"477.4\" cy=\"245.2\" r=\"56.7\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 14,
+      "svg": "<circle cx=\"167.6\" cy=\"303.6\" r=\"64.1\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 15,
+      "svg": "<circle cx=\"687.0\" cy=\"508.0\" r=\"21.3\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 16,
+      "svg": "<circle cx=\"227.4\" cy=\"293.0\" r=\"11.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 17,
+      "svg": "<circle cx=\"527.9\" cy=\"680.8\" r=\"60.4\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 18,
+      "svg": "<circle cx=\"742.3\" cy=\"88.0\" r=\"80.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 19,
+      "svg": "<circle cx=\"344.9\" cy=\"942.3\" r=\"16.0\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 20,
+      "svg": "<circle cx=\"88.8\" cy=\"15.8\" r=\"33.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 21,
+      "svg": "<circle cx=\"385.4\" cy=\"611.9\" r=\"77.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 22,
+      "svg": "<circle cx=\"62.1\" cy=\"719.6\" r=\"79.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 23,
+      "svg": "<circle cx=\"222.6\" cy=\"706.6\" r=\"19.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 24,
+      "svg": "<circle cx=\"416.3\" cy=\"821.9\" r=\"14.6\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 25,
+      "svg": "<circle cx=\"796.5\" cy=\"562.8\" r=\"78.3\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 26,
+      "svg": "<circle cx=\"347.2\" cy=\"578.5\" r=\"32.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 27,
+      "svg": "<circle cx=\"477.0\" cy=\"323.0\" r=\"63.4\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 28,
+      "svg": "<circle cx=\"236.2\" cy=\"449.8\" r=\"72.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 29,
+      "svg": "<circle cx=\"556.1\" cy=\"994.0\" r=\"76.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 30,
+      "svg": "<circle cx=\"345.5\" cy=\"545.2\" r=\"28.7\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 31,
+      "svg": "<circle cx=\"80.7\" cy=\"696.7\" r=\"30.1\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 32,
+      "svg": "<circle cx=\"628.8\" cy=\"904.8\" r=\"12.5\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 33,
+      "svg": "<circle cx=\"380.3\" cy=\"822.0\" r=\"15.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 34,
+      "svg": "<circle cx=\"778.2\" cy=\"178.4\" r=\"61.8\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 35,
+      "svg": "<circle cx=\"559.8\" cy=\"223.2\" r=\"38.0\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 36,
+      "svg": "<circle cx=\"130.7\" cy=\"654.7\" r=\"31.9\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 37,
+      "svg": "<circle cx=\"165.6\" cy=\"628.9\" r=\"76.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 38,
+      "svg": "<circle cx=\"261.1\" cy=\"792.4\" r=\"36.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 39,
+      "svg": "<circle cx=\"105.1\" cy=\"863.7\" r=\"34.6\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 40,
+      "svg": "<circle cx=\"7.6\" cy=\"737.4\" r=\"55.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 41,
+      "svg": "<circle cx=\"700.7\" cy=\"908.2\" r=\"21.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 42,
+      "svg": "<circle cx=\"483.1\" cy=\"489.2\" r=\"19.7\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 43,
+      "svg": "<circle cx=\"38.0\" cy=\"705.6\" r=\"61.7\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 44,
+      "svg": "<circle cx=\"233.2\" cy=\"275.5\" r=\"31.9\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 45,
+      "svg": "<circle cx=\"23.3\" cy=\"220.9\" r=\"84.5\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 46,
+      "svg": "<circle cx=\"457.9\" cy=\"988.6\" r=\"18.1\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 47,
+      "svg": "<circle cx=\"136.7\" cy=\"561.0\" r=\"28.4\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 48,
+      "svg": "<circle cx=\"315.7\" cy=\"434.4\" r=\"38.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 49,
+      "svg": "<circle cx=\"548.9\" cy=\"398.5\" r=\"31.9\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 50,
+      "svg": "<circle cx=\"716.5\" cy=\"327.3\" r=\"44.6\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 51,
+      "svg": "<circle cx=\"488.7\" cy=\"546.4\" r=\"52.1\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 52,
+      "svg": "<circle cx=\"188.3\" cy=\"325.4\" r=\"28.9\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 53,
+      "svg": "<circle cx=\"256.5\" cy=\"669.3\" r=\"22.7\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 54,
+      "svg": "<circle cx=\"135.4\" cy=\"695.0\" r=\"30.1\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 55,
+      "svg": "<circle cx=\"99.9\" cy=\"313.8\" r=\"8.4\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 56,
+      "svg": "<circle cx=\"462.0\" cy=\"207.7\" r=\"43.5\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 57,
+      "svg": "<circle cx=\"303.9\" cy=\"712.0\" r=\"78.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 58,
+      "svg": "<circle cx=\"649.4\" cy=\"439.4\" r=\"17.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 59,
+      "svg": "<circle cx=\"694.1\" cy=\"525.7\" r=\"72.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 60,
+      "svg": "<circle cx=\"715.6\" cy=\"450.1\" r=\"16.7\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 61,
+      "svg": "<circle cx=\"495.0\" cy=\"807.6\" r=\"21.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 62,
+      "svg": "<circle cx=\"311.7\" cy=\"545.7\" r=\"83.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 63,
+      "svg": "<circle cx=\"393.6\" cy=\"859.5\" r=\"72.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 64,
+      "svg": "<circle cx=\"594.9\" cy=\"53.5\" r=\"10.5\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 65,
+      "svg": "<circle cx=\"135.4\" cy=\"506.5\" r=\"59.1\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 66,
+      "svg": "<circle cx=\"608.6\" cy=\"991.5\" r=\"70.3\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 67,
+      "svg": "<circle cx=\"505.3\" cy=\"837.0\" r=\"73.2\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 68,
+      "svg": "<circle cx=\"479.5\" cy=\"351.1\" r=\"40.8\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 69,
+      "svg": "<circle cx=\"702.7\" cy=\"681.0\" r=\"32.9\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 70,
+      "svg": "<circle cx=\"750.0\" cy=\"625.9\" r=\"31.3\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 71,
+      "svg": "<circle cx=\"675.7\" cy=\"151.6\" r=\"34.3\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 72,
+      "svg": "<circle cx=\"16.0\" cy=\"85.5\" r=\"56.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 73,
+      "svg": "<circle cx=\"581.1\" cy=\"955.9\" r=\"75.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 74,
+      "svg": "<circle cx=\"373.0\" cy=\"707.5\" r=\"16.6\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 75,
+      "svg": "<circle cx=\"218.5\" cy=\"139.1\" r=\"8.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 76,
+      "svg": "<circle cx=\"232.8\" cy=\"441.0\" r=\"50.5\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 77,
+      "svg": "<circle cx=\"573.1\" cy=\"793.6\" r=\"67.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 78,
+      "svg": "<circle cx=\"156.7\" cy=\"666.4\" r=\"46.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 79,
+      "svg": "<circle cx=\"354.8\" cy=\"469.0\" r=\"41.7\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 80,
+      "svg": "<circle cx=\"340.0\" cy=\"331.9\" r=\"29.6\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 81,
+      "svg": "<circle cx=\"118.1\" cy=\"504.6\" r=\"26.4\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 82,
+      "svg": "<circle cx=\"424.4\" cy=\"548.0\" r=\"56.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 83,
+      "svg": "<circle cx=\"349.8\" cy=\"134.8\" r=\"5.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 84,
+      "svg": "<circle cx=\"118.5\" cy=\"943.2\" r=\"10.5\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 85,
+      "svg": "<circle cx=\"696.5\" cy=\"430.4\" r=\"45.2\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 86,
+      "svg": "<circle cx=\"79.0\" cy=\"821.7\" r=\"9.5\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 87,
+      "svg": "<circle cx=\"296.5\" cy=\"229.7\" r=\"61.2\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 88,
+      "svg": "<circle cx=\"451.2\" cy=\"94.6\" r=\"82.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 89,
+      "svg": "<circle cx=\"600.1\" cy=\"661.2\" r=\"68.7\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 90,
+      "svg": "<circle cx=\"439.0\" cy=\"804.8\" r=\"47.2\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 91,
+      "svg": "<circle cx=\"141.5\" cy=\"78.1\" r=\"12.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 92,
+      "svg": "<circle cx=\"47.7\" cy=\"262.8\" r=\"58.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 93,
+      "svg": "<circle cx=\"534.7\" cy=\"561.0\" r=\"83.1\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 94,
+      "svg": "<circle cx=\"17.7\" cy=\"396.8\" r=\"32.0\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 95,
+      "svg": "<circle cx=\"227.3\" cy=\"833.1\" r=\"47.9\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 96,
+      "svg": "<circle cx=\"164.0\" cy=\"944.3\" r=\"81.2\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 97,
+      "svg": "<circle cx=\"213.0\" cy=\"518.4\" r=\"73.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 98,
+      "svg": "<circle cx=\"748.3\" cy=\"685.0\" r=\"50.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 99,
+      "svg": "<circle cx=\"647.9\" cy=\"312.0\" r=\"44.5\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 100,
+      "svg": "<circle cx=\"600.2\" cy=\"549.7\" r=\"60.0\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 101,
+      "svg": "<circle cx=\"443.4\" cy=\"546.0\" r=\"82.4\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 102,
+      "svg": "<circle cx=\"787.5\" cy=\"766.6\" r=\"29.7\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 103,
+      "svg": "<circle cx=\"505.2\" cy=\"667.9\" r=\"74.2\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 104,
+      "svg": "<circle cx=\"309.5\" cy=\"877.9\" r=\"30.4\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 105,
+      "svg": "<circle cx=\"703.9\" cy=\"413.2\" r=\"32.2\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 106,
+      "svg": "<circle cx=\"426.3\" cy=\"836.8\" r=\"54.4\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 107,
+      "svg": "<circle cx=\"694.2\" cy=\"691.5\" r=\"17.1\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 108,
+      "svg": "<circle cx=\"229.4\" cy=\"961.4\" r=\"43.9\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 109,
+      "svg": "<circle cx=\"219.9\" cy=\"630.8\" r=\"66.7\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 110,
+      "svg": "<circle cx=\"590.6\" cy=\"714.8\" r=\"19.9\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 111,
+      "svg": "<circle cx=\"677.4\" cy=\"902.6\" r=\"48.6\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 112,
+      "svg": "<circle cx=\"377.1\" cy=\"72.5\" r=\"45.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 113,
+      "svg": "<circle cx=\"714.6\" cy=\"675.3\" r=\"38.7\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 114,
+      "svg": "<circle cx=\"354.2\" cy=\"615.9\" r=\"62.4\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 115,
+      "svg": "<circle cx=\"414.3\" cy=\"43.3\" r=\"18.4\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 116,
+      "svg": "<circle cx=\"78.0\" cy=\"121.2\" r=\"35.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 117,
+      "svg": "<circle cx=\"662.5\" cy=\"837.9\" r=\"59.7\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 118,
+      "svg": "<circle cx=\"67.8\" cy=\"32.8\" r=\"26.6\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 119,
+      "svg": "<circle cx=\"560.0\" cy=\"269.7\" r=\"73.5\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 120,
+      "svg": "<circle cx=\"500.9\" cy=\"908.9\" r=\"76.1\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 121,
+      "svg": "<circle cx=\"276.1\" cy=\"99.8\" r=\"55.2\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 122,
+      "svg": "<circle cx=\"191.8\" cy=\"480.2\" r=\"27.3\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 123,
+      "svg": "<circle cx=\"208.1\" cy=\"720.5\" r=\"46.5\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 124,
+      "svg": "<circle cx=\"390.5\" cy=\"591.9\" r=\"13.7\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 125,
+      "svg": "<circle cx=\"625.6\" cy=\"689.1\" r=\"78.5\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 126,
+      "svg": "<circle cx=\"93.3\" cy=\"58.8\" r=\"7.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 127,
+      "svg": "<circle cx=\"272.4\" cy=\"240.2\" r=\"23.4\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 128,
+      "svg": "<circle cx=\"792.3\" cy=\"581.2\" r=\"72.2\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 129,
+      "svg": "<circle cx=\"273.3\" cy=\"649.1\" r=\"7.6\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 130,
+      "svg": "<circle cx=\"587.8\" cy=\"798.6\" r=\"35.1\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 131,
+      "svg": "<circle cx=\"163.5\" cy=\"785.5\" r=\"45.4\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 132,
+      "svg": "<circle cx=\"110.5\" cy=\"82.5\" r=\"66.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 133,
+      "svg": "<circle cx=\"345.3\" cy=\"870.4\" r=\"68.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 134,
+      "svg": "<circle cx=\"394.8\" cy=\"951.6\" r=\"19.0\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 135,
+      "svg": "<circle cx=\"116.4\" cy=\"552.1\" r=\"59.0\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 136,
+      "svg": "<circle cx=\"165.2\" cy=\"770.2\" r=\"24.3\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 137,
+      "svg": "<circle cx=\"108.0\" cy=\"659.9\" r=\"53.2\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 138,
+      "svg": "<circle cx=\"444.3\" cy=\"205.3\" r=\"78.8\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 139,
+      "svg": "<circle cx=\"417.4\" cy=\"745.1\" r=\"9.0\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 140,
+      "svg": "<circle cx=\"766.0\" cy=\"580.4\" r=\"27.7\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 141,
+      "svg": "<circle cx=\"37.7\" cy=\"326.3\" r=\"62.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 142,
+      "svg": "<circle cx=\"608.8\" cy=\"251.0\" r=\"74.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 143,
+      "svg": "<circle cx=\"364.6\" cy=\"182.6\" r=\"56.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 144,
+      "svg": "<circle cx=\"406.0\" cy=\"188.4\" r=\"73.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 145,
+      "svg": "<circle cx=\"70.0\" cy=\"136.3\" r=\"84.6\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 146,
+      "svg": "<circle cx=\"169.3\" cy=\"471.6\" r=\"45.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 147,
+      "svg": "<circle cx=\"495.7\" cy=\"484.5\" r=\"58.9\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 148,
+      "svg": "<circle cx=\"126.7\" cy=\"979.0\" r=\"71.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 149,
+      "svg": "<circle cx=\"277.0\" cy=\"204.9\" r=\"46.4\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 150,
+      "svg": "<circle cx=\"609.8\" cy=\"446.0\" r=\"43.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 151,
+      "svg": "<circle cx=\"201.7\" cy=\"499.3\" r=\"7.8\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 152,
+      "svg": "<circle cx=\"689.4\" cy=\"363.6\" r=\"39.1\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 153,
+      "svg": "<circle cx=\"201.2\" cy=\"504.0\" r=\"8.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 154,
+      "svg": "<circle cx=\"532.7\" cy=\"64.8\" r=\"77.1\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 155,
+      "svg": "<circle cx=\"610.6\" cy=\"657.9\" r=\"69.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 156,
+      "svg": "<circle cx=\"43.0\" cy=\"586.7\" r=\"48.9\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 157,
+      "svg": "<circle cx=\"385.3\" cy=\"512.4\" r=\"43.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 158,
+      "svg": "<circle cx=\"360.4\" cy=\"577.2\" r=\"6.3\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 159,
+      "svg": "<circle cx=\"566.6\" cy=\"3.7\" r=\"60.3\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 160,
+      "svg": "<circle cx=\"146.6\" cy=\"369.0\" r=\"63.1\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 161,
+      "svg": "<circle cx=\"744.9\" cy=\"279.0\" r=\"54.4\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 162,
+      "svg": "<circle cx=\"722.1\" cy=\"462.1\" r=\"8.6\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 163,
+      "svg": "<circle cx=\"454.0\" cy=\"494.9\" r=\"40.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 164,
+      "svg": "<circle cx=\"374.7\" cy=\"753.8\" r=\"14.7\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 165,
+      "svg": "<circle cx=\"571.9\" cy=\"595.1\" r=\"80.6\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 166,
+      "svg": "<circle cx=\"666.5\" cy=\"479.3\" r=\"5.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 167,
+      "svg": "<circle cx=\"728.4\" cy=\"62.2\" r=\"46.3\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 168,
+      "svg": "<circle cx=\"389.4\" cy=\"681.9\" r=\"49.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 169,
+      "svg": "<circle cx=\"488.1\" cy=\"851.9\" r=\"58.1\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 170,
+      "svg": "<circle cx=\"787.4\" cy=\"979.5\" r=\"82.4\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 171,
+      "svg": "<circle cx=\"649.3\" cy=\"957.4\" r=\"69.9\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 172,
+      "svg": "<circle cx=\"127.4\" cy=\"89.2\" r=\"84.4\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 173,
+      "svg": "<circle cx=\"27.8\" cy=\"491.2\" r=\"74.9\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 174,
+      "svg": "<circle cx=\"543.3\" cy=\"776.1\" r=\"31.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 175,
+      "svg": "<circle cx=\"672.5\" cy=\"453.8\" r=\"78.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 176,
+      "svg": "<circle cx=\"524.6\" cy=\"250.5\" r=\"17.5\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 177,
+      "svg": "<circle cx=\"299.6\" cy=\"724.6\" r=\"9.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 178,
+      "svg": "<circle cx=\"110.4\" cy=\"239.4\" r=\"54.7\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 179,
+      "svg": "<circle cx=\"299.4\" cy=\"635.4\" r=\"83.0\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 180,
+      "svg": "<circle cx=\"327.6\" cy=\"792.6\" r=\"64.2\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 181,
+      "svg": "<circle cx=\"12.8\" cy=\"684.1\" r=\"75.0\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 182,
+      "svg": "<circle cx=\"203.5\" cy=\"592.4\" r=\"77.0\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 183,
+      "svg": "<circle cx=\"373.5\" cy=\"381.3\" r=\"72.4\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 184,
+      "svg": "<circle cx=\"504.9\" cy=\"315.1\" r=\"42.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 185,
+      "svg": "<circle cx=\"423.5\" cy=\"995.8\" r=\"18.8\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 186,
+      "svg": "<circle cx=\"475.6\" cy=\"74.6\" r=\"56.5\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 187,
+      "svg": "<circle cx=\"636.4\" cy=\"433.8\" r=\"52.7\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 188,
+      "svg": "<circle cx=\"667.8\" cy=\"391.9\" r=\"52.1\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 189,
+      "svg": "<circle cx=\"135.2\" cy=\"976.5\" r=\"19.5\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 190,
+      "svg": "<circle cx=\"543.5\" cy=\"708.2\" r=\"50.3\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 191,
+      "svg": "<circle cx=\"437.3\" cy=\"630.2\" r=\"76.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 192,
+      "svg": "<circle cx=\"617.3\" cy=\"0.1\" r=\"9.8\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 193,
+      "svg": "<circle cx=\"76.5\" cy=\"909.6\" r=\"5.0\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 194,
+      "svg": "<circle cx=\"27.7\" cy=\"523.9\" r=\"9.6\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 195,
+      "svg": "<circle cx=\"596.1\" cy=\"634.0\" r=\"5.1\" fill=\"none\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 196,
+      "svg": "<circle cx=\"324.6\" cy=\"826.0\" r=\"32.7\" fill=\"none\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 197,
+      "svg": "<circle cx=\"158.6\" cy=\"742.6\" r=\"57.2\" fill=\"none\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 198,
+      "svg": "<circle cx=\"39.9\" cy=\"626.2\" r=\"52.2\" fill=\"none\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "circles",
+      "index": 199,
+      "svg": "<circle cx=\"680.8\" cy=\"580.0\" r=\"38.2\" fill=\"none\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    }
+  ],
+  "generatedAt": "2026-09-23T11:03:26.755Z"
+}

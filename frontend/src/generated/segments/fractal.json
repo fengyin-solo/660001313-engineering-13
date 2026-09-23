@@ -1,0 +1,1298 @@
+{
+  "key": "fractal|s42|i200|sc1|w800|h1000|sw1.5|o0.8|pff6b35-f7c59f-efefd0-004e89-1a659e",
+  "pattern": "fractal",
+  "params": {
+    "seed": 42,
+    "iterations": 200,
+    "scale": 1,
+    "strokeWidth": 1.5,
+    "opacity": 0.8,
+    "width": 800,
+    "height": 1000,
+    "palette": [
+      "#ff6b35",
+      "#f7c59f",
+      "#efefd0",
+      "#004e89",
+      "#1a659e"
+    ]
+  },
+  "segments": [
+    {
+      "pattern": "fractal",
+      "index": 0,
+      "svg": "<line x1=\"400.0\" y1=\"850.0\" x2=\"400.0\" y2=\"600.0\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 1,
+      "svg": "<line x1=\"400.0\" y1=\"600.0\" x2=\"304.0\" y2=\"453.7\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 2,
+      "svg": "<line x1=\"304.0\" y1=\"453.7\" x2=\"194.1\" y2=\"399.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 3,
+      "svg": "<line x1=\"194.1\" y1=\"399.7\" x2=\"110.0\" y2=\"416.7\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 4,
+      "svg": "<line x1=\"110.0\" y1=\"416.7\" x2=\"68.2\" y2=\"459.8\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 5,
+      "svg": "<line x1=\"68.2\" y1=\"459.8\" x2=\"55.1\" y2=\"499.7\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 6,
+      "svg": "<line x1=\"55.1\" y1=\"499.7\" x2=\"62.1\" y2=\"528.3\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 7,
+      "svg": "<line x1=\"62.1\" y1=\"528.3\" x2=\"75.7\" y2=\"543.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 8,
+      "svg": "<line x1=\"62.1\" y1=\"528.3\" x2=\"57.2\" y2=\"548.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 9,
+      "svg": "<line x1=\"55.1\" y1=\"499.7\" x2=\"32.5\" y2=\"518.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 10,
+      "svg": "<line x1=\"32.5\" y1=\"518.6\" x2=\"25.8\" y2=\"538.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 11,
+      "svg": "<line x1=\"32.5\" y1=\"518.6\" x2=\"12.2\" y2=\"521.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 12,
+      "svg": "<line x1=\"68.2\" y1=\"459.8\" x2=\"28.7\" y2=\"474.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 13,
+      "svg": "<line x1=\"28.7\" y1=\"474.2\" x2=\"12.2\" y2=\"498.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 14,
+      "svg": "<line x1=\"12.2\" y1=\"498.4\" x2=\"10.0\" y2=\"518.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 15,
+      "svg": "<line x1=\"12.2\" y1=\"498.4\" x2=\"-6.1\" y2=\"507.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 16,
+      "svg": "<line x1=\"28.7\" y1=\"474.2\" x2=\"0.4\" y2=\"466.2\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 17,
+      "svg": "<line x1=\"0.4\" y1=\"466.2\" x2=\"-19.0\" y2=\"472.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 18,
+      "svg": "<line x1=\"0.4\" y1=\"466.2\" x2=\"-12.7\" y2=\"450.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 19,
+      "svg": "<line x1=\"110.0\" y1=\"416.7\" x2=\"54.8\" y2=\"393.3\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 20,
+      "svg": "<line x1=\"54.8\" y1=\"393.3\" x2=\"13.2\" y2=\"399.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 21,
+      "svg": "<line x1=\"13.2\" y1=\"399.2\" x2=\"-7.5\" y2=\"420.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 22,
+      "svg": "<line x1=\"-7.5\" y1=\"420.1\" x2=\"-14.9\" y2=\"439.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 23,
+      "svg": "<line x1=\"-7.5\" y1=\"420.1\" x2=\"-26.7\" y2=\"427.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 24,
+      "svg": "<line x1=\"13.2\" y1=\"399.2\" x2=\"-12.5\" y2=\"384.8\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 25,
+      "svg": "<line x1=\"-12.5\" y1=\"384.8\" x2=\"-33.1\" y2=\"384.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 26,
+      "svg": "<line x1=\"-12.5\" y1=\"384.8\" x2=\"-23.8\" y2=\"367.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 27,
+      "svg": "<line x1=\"54.8\" y1=\"393.3\" x2=\"30.1\" y2=\"359.3\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 28,
+      "svg": "<line x1=\"30.1\" y1=\"359.3\" x2=\"2.0\" y2=\"350.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 29,
+      "svg": "<line x1=\"2.0\" y1=\"350.4\" x2=\"-17.9\" y2=\"355.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 30,
+      "svg": "<line x1=\"2.0\" y1=\"350.4\" x2=\"-11.3\" y2=\"334.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 31,
+      "svg": "<line x1=\"30.1\" y1=\"359.3\" x2=\"30.3\" y2=\"329.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 32,
+      "svg": "<line x1=\"30.3\" y1=\"329.9\" x2=\"17.9\" y2=\"313.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 33,
+      "svg": "<line x1=\"30.3\" y1=\"329.9\" x2=\"42.9\" y2=\"313.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 34,
+      "svg": "<line x1=\"194.1\" y1=\"399.7\" x2=\"156.1\" y2=\"322.8\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 35,
+      "svg": "<line x1=\"156.1\" y1=\"322.8\" x2=\"107.1\" y2=\"288.2\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 36,
+      "svg": "<line x1=\"107.1\" y1=\"288.2\" x2=\"65.2\" y2=\"284.8\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 37,
+      "svg": "<line x1=\"65.2\" y1=\"284.8\" x2=\"37.4\" y2=\"294.3\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 38,
+      "svg": "<line x1=\"37.4\" y1=\"294.3\" x2=\"22.2\" y2=\"308.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 39,
+      "svg": "<line x1=\"37.4\" y1=\"294.3\" x2=\"16.9\" y2=\"292.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 40,
+      "svg": "<line x1=\"65.2\" y1=\"284.8\" x2=\"39.3\" y2=\"270.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 41,
+      "svg": "<line x1=\"39.3\" y1=\"270.9\" x2=\"18.7\" y2=\"270.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 42,
+      "svg": "<line x1=\"39.3\" y1=\"270.9\" x2=\"27.6\" y2=\"253.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 43,
+      "svg": "<line x1=\"107.1\" y1=\"288.2\" x2=\"89.9\" y2=\"249.8\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 44,
+      "svg": "<line x1=\"89.9\" y1=\"249.8\" x2=\"66.7\" y2=\"231.8\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 45,
+      "svg": "<line x1=\"66.7\" y1=\"231.8\" x2=\"46.1\" y2=\"231.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 46,
+      "svg": "<line x1=\"66.7\" y1=\"231.8\" x2=\"60.8\" y2=\"212.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 47,
+      "svg": "<line x1=\"89.9\" y1=\"249.8\" x2=\"92.0\" y2=\"220.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 48,
+      "svg": "<line x1=\"92.0\" y1=\"220.5\" x2=\"84.2\" y2=\"201.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 49,
+      "svg": "<line x1=\"92.0\" y1=\"220.5\" x2=\"102.5\" y2=\"202.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 50,
+      "svg": "<line x1=\"156.1\" y1=\"322.8\" x2=\"158.3\" y2=\"262.9\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 51,
+      "svg": "<line x1=\"158.3\" y1=\"262.9\" x2=\"142.5\" y2=\"223.9\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 52,
+      "svg": "<line x1=\"142.5\" y1=\"223.9\" x2=\"118.0\" y2=\"207.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 53,
+      "svg": "<line x1=\"118.0\" y1=\"207.6\" x2=\"97.4\" y2=\"208.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 54,
+      "svg": "<line x1=\"118.0\" y1=\"207.6\" x2=\"110.4\" y2=\"188.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 55,
+      "svg": "<line x1=\"142.5\" y1=\"223.9\" x2=\"148.7\" y2=\"195.2\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 56,
+      "svg": "<line x1=\"148.7\" y1=\"195.2\" x2=\"144.3\" y2=\"175.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 57,
+      "svg": "<line x1=\"148.7\" y1=\"195.2\" x2=\"160.9\" y2=\"178.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 58,
+      "svg": "<line x1=\"158.3\" y1=\"262.9\" x2=\"176.9\" y2=\"225.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 59,
+      "svg": "<line x1=\"176.9\" y1=\"225.2\" x2=\"170.4\" y2=\"196.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 60,
+      "svg": "<line x1=\"170.4\" y1=\"196.5\" x2=\"157.7\" y2=\"180.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 61,
+      "svg": "<line x1=\"170.4\" y1=\"196.5\" x2=\"174.8\" y2=\"176.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 62,
+      "svg": "<line x1=\"176.9\" y1=\"225.2\" x2=\"203.6\" y2=\"213.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 63,
+      "svg": "<line x1=\"203.6\" y1=\"213.0\" x2=\"215.8\" y2=\"196.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 64,
+      "svg": "<line x1=\"203.6\" y1=\"213.0\" x2=\"224.2\" y2=\"214.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 65,
+      "svg": "<line x1=\"304.0\" y1=\"453.7\" x2=\"298.4\" y2=\"331.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 66,
+      "svg": "<line x1=\"298.4\" y1=\"331.3\" x2=\"242.2\" y2=\"266.6\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 67,
+      "svg": "<line x1=\"242.2\" y1=\"266.6\" x2=\"187.7\" y2=\"241.4\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 68,
+      "svg": "<line x1=\"187.7\" y1=\"241.4\" x2=\"146.3\" y2=\"249.1\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 69,
+      "svg": "<line x1=\"146.3\" y1=\"249.1\" x2=\"127.3\" y2=\"271.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 70,
+      "svg": "<line x1=\"127.3\" y1=\"271.5\" x2=\"122.7\" y2=\"291.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 71,
+      "svg": "<line x1=\"127.3\" y1=\"271.5\" x2=\"108.1\" y2=\"279.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 72,
+      "svg": "<line x1=\"146.3\" y1=\"249.1\" x2=\"120.5\" y2=\"235.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 73,
+      "svg": "<line x1=\"120.5\" y1=\"235.1\" x2=\"99.9\" y2=\"236.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 74,
+      "svg": "<line x1=\"120.5\" y1=\"235.1\" x2=\"110.3\" y2=\"217.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 75,
+      "svg": "<line x1=\"187.7\" y1=\"241.4\" x2=\"166.7\" y2=\"205.1\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 76,
+      "svg": "<line x1=\"166.7\" y1=\"205.1\" x2=\"139.0\" y2=\"195.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 77,
+      "svg": "<line x1=\"139.0\" y1=\"195.0\" x2=\"118.9\" y2=\"199.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 78,
+      "svg": "<line x1=\"139.0\" y1=\"195.0\" x2=\"126.5\" y2=\"178.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 79,
+      "svg": "<line x1=\"166.7\" y1=\"205.1\" x2=\"171.8\" y2=\"176.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 80,
+      "svg": "<line x1=\"171.8\" y1=\"176.1\" x2=\"163.8\" y2=\"157.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 81,
+      "svg": "<line x1=\"171.8\" y1=\"176.1\" x2=\"185.8\" y2=\"161.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 82,
+      "svg": "<line x1=\"242.2\" y1=\"266.6\" x2=\"224.9\" y2=\"209.1\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 83,
+      "svg": "<line x1=\"224.9\" y1=\"209.1\" x2=\"195.0\" y2=\"179.5\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 84,
+      "svg": "<line x1=\"195.0\" y1=\"179.5\" x2=\"166.0\" y2=\"174.7\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 85,
+      "svg": "<line x1=\"166.0\" y1=\"174.7\" x2=\"146.5\" y2=\"181.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 86,
+      "svg": "<line x1=\"166.0\" y1=\"174.7\" x2=\"149.6\" y2=\"162.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 87,
+      "svg": "<line x1=\"195.0\" y1=\"179.5\" x2=\"190.0\" y2=\"150.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 88,
+      "svg": "<line x1=\"190.0\" y1=\"150.5\" x2=\"175.6\" y2=\"135.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 89,
+      "svg": "<line x1=\"190.0\" y1=\"150.5\" x2=\"198.8\" y2=\"131.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 90,
+      "svg": "<line x1=\"224.9\" y1=\"209.1\" x2=\"233.4\" y2=\"168.0\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 91,
+      "svg": "<line x1=\"233.4\" y1=\"168.0\" x2=\"224.0\" y2=\"140.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 92,
+      "svg": "<line x1=\"224.0\" y1=\"140.1\" x2=\"208.0\" y2=\"127.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 93,
+      "svg": "<line x1=\"224.0\" y1=\"140.1\" x2=\"228.9\" y2=\"120.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 94,
+      "svg": "<line x1=\"233.4\" y1=\"168.0\" x2=\"253.1\" y2=\"146.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 95,
+      "svg": "<line x1=\"253.1\" y1=\"146.1\" x2=\"255.7\" y2=\"125.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 96,
+      "svg": "<line x1=\"253.1\" y1=\"146.1\" x2=\"273.2\" y2=\"141.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 97,
+      "svg": "<line x1=\"298.4\" y1=\"331.3\" x2=\"348.5\" y2=\"261.7\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 98,
+      "svg": "<line x1=\"348.5\" y1=\"261.7\" x2=\"345.7\" y2=\"201.7\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 99,
+      "svg": "<line x1=\"345.7\" y1=\"201.7\" x2=\"326.5\" y2=\"164.4\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 100,
+      "svg": "<line x1=\"326.5\" y1=\"164.4\" x2=\"301.4\" y2=\"148.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 101,
+      "svg": "<line x1=\"301.4\" y1=\"148.9\" x2=\"280.9\" y2=\"150.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 102,
+      "svg": "<line x1=\"301.4\" y1=\"148.9\" x2=\"293.9\" y2=\"129.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 103,
+      "svg": "<line x1=\"326.5\" y1=\"164.4\" x2=\"328.4\" y2=\"135.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 104,
+      "svg": "<line x1=\"328.4\" y1=\"135.0\" x2=\"320.7\" y2=\"116.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 105,
+      "svg": "<line x1=\"328.4\" y1=\"135.0\" x2=\"338.7\" y2=\"117.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 106,
+      "svg": "<line x1=\"345.7\" y1=\"201.7\" x2=\"361.3\" y2=\"162.7\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 107,
+      "svg": "<line x1=\"361.3\" y1=\"162.7\" x2=\"358.8\" y2=\"133.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 108,
+      "svg": "<line x1=\"358.8\" y1=\"133.4\" x2=\"347.0\" y2=\"116.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 109,
+      "svg": "<line x1=\"358.8\" y1=\"133.4\" x2=\"367.5\" y2=\"114.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 110,
+      "svg": "<line x1=\"361.3\" y1=\"162.7\" x2=\"383.4\" y2=\"143.3\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 111,
+      "svg": "<line x1=\"383.4\" y1=\"143.3\" x2=\"390.4\" y2=\"123.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 112,
+      "svg": "<line x1=\"383.4\" y1=\"143.3\" x2=\"403.4\" y2=\"138.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 113,
+      "svg": "<line x1=\"348.5\" y1=\"261.7\" x2=\"406.3\" y2=\"245.4\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 114,
+      "svg": "<line x1=\"406.3\" y1=\"245.4\" x2=\"431.0\" y2=\"211.4\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 115,
+      "svg": "<line x1=\"431.0\" y1=\"211.4\" x2=\"434.9\" y2=\"182.2\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 116,
+      "svg": "<line x1=\"434.9\" y1=\"182.2\" x2=\"424.9\" y2=\"164.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 117,
+      "svg": "<line x1=\"434.9\" y1=\"182.2\" x2=\"449.2\" y2=\"167.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 118,
+      "svg": "<line x1=\"431.0\" y1=\"211.4\" x2=\"457.6\" y2=\"198.8\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 119,
+      "svg": "<line x1=\"457.6\" y1=\"198.8\" x2=\"466.9\" y2=\"180.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 120,
+      "svg": "<line x1=\"457.6\" y1=\"198.8\" x2=\"477.7\" y2=\"203.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 121,
+      "svg": "<line x1=\"406.3\" y1=\"245.4\" x2=\"445.2\" y2=\"261.4\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 122,
+      "svg": "<line x1=\"445.2\" y1=\"261.4\" x2=\"473.8\" y2=\"254.7\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 123,
+      "svg": "<line x1=\"473.8\" y1=\"254.7\" x2=\"487.8\" y2=\"239.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 124,
+      "svg": "<line x1=\"473.8\" y1=\"254.7\" x2=\"493.1\" y2=\"261.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 125,
+      "svg": "<line x1=\"445.2\" y1=\"261.4\" x2=\"460.7\" y2=\"286.3\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 126,
+      "svg": "<line x1=\"460.7\" y1=\"286.3\" x2=\"478.3\" y2=\"297.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 127,
+      "svg": "<line x1=\"460.7\" y1=\"286.3\" x2=\"462.7\" y2=\"306.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 128,
+      "svg": "<line x1=\"400.0\" y1=\"600.0\" x2=\"496.0\" y2=\"453.7\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 129,
+      "svg": "<line x1=\"496.0\" y1=\"453.7\" x2=\"511.2\" y2=\"332.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 130,
+      "svg": "<line x1=\"511.2\" y1=\"332.1\" x2=\"486.8\" y2=\"249.9\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 131,
+      "svg": "<line x1=\"486.8\" y1=\"249.9\" x2=\"439.7\" y2=\"212.6\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 132,
+      "svg": "<line x1=\"439.7\" y1=\"212.6\" x2=\"397.8\" y2=\"210.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 133,
+      "svg": "<line x1=\"397.8\" y1=\"210.2\" x2=\"371.1\" y2=\"222.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 134,
+      "svg": "<line x1=\"371.1\" y1=\"222.5\" x2=\"358.5\" y2=\"238.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 135,
+      "svg": "<line x1=\"371.1\" y1=\"222.5\" x2=\"350.5\" y2=\"221.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 136,
+      "svg": "<line x1=\"397.8\" y1=\"210.2\" x2=\"372.6\" y2=\"195.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 137,
+      "svg": "<line x1=\"372.6\" y1=\"195.0\" x2=\"352.1\" y2=\"193.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 138,
+      "svg": "<line x1=\"372.6\" y1=\"195.0\" x2=\"361.7\" y2=\"177.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 139,
+      "svg": "<line x1=\"439.7\" y1=\"212.6\" x2=\"427.8\" y2=\"172.4\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 140,
+      "svg": "<line x1=\"427.8\" y1=\"172.4\" x2=\"403.3\" y2=\"156.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 141,
+      "svg": "<line x1=\"403.3\" y1=\"156.1\" x2=\"382.9\" y2=\"153.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 142,
+      "svg": "<line x1=\"403.3\" y1=\"156.1\" x2=\"392.8\" y2=\"138.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 143,
+      "svg": "<line x1=\"427.8\" y1=\"172.4\" x2=\"439.5\" y2=\"145.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 144,
+      "svg": "<line x1=\"439.5\" y1=\"145.4\" x2=\"437.8\" y2=\"124.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 145,
+      "svg": "<line x1=\"439.5\" y1=\"145.4\" x2=\"455.6\" y2=\"132.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 146,
+      "svg": "<line x1=\"486.8\" y1=\"249.9\" x2=\"505.8\" y2=\"193.0\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 147,
+      "svg": "<line x1=\"505.8\" y1=\"193.0\" x2=\"497.3\" y2=\"151.8\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 148,
+      "svg": "<line x1=\"497.3\" y1=\"151.8\" x2=\"476.1\" y2=\"131.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 149,
+      "svg": "<line x1=\"476.1\" y1=\"131.5\" x2=\"456.1\" y2=\"126.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 150,
+      "svg": "<line x1=\"476.1\" y1=\"131.5\" x2=\"470.2\" y2=\"111.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 151,
+      "svg": "<line x1=\"497.3\" y1=\"151.8\" x2=\"508.9\" y2=\"124.8\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 152,
+      "svg": "<line x1=\"508.9\" y1=\"124.8\" x2=\"506.9\" y2=\"104.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 153,
+      "svg": "<line x1=\"508.9\" y1=\"124.8\" x2=\"525.0\" y2=\"112.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 154,
+      "svg": "<line x1=\"505.8\" y1=\"193.0\" x2=\"537.3\" y2=\"165.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 155,
+      "svg": "<line x1=\"537.3\" y1=\"165.2\" x2=\"545.6\" y2=\"137.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 156,
+      "svg": "<line x1=\"545.6\" y1=\"137.0\" x2=\"539.6\" y2=\"117.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 157,
+      "svg": "<line x1=\"545.6\" y1=\"137.0\" x2=\"561.2\" y2=\"123.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 158,
+      "svg": "<line x1=\"537.3\" y1=\"165.2\" x2=\"566.4\" y2=\"160.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 159,
+      "svg": "<line x1=\"566.4\" y1=\"160.5\" x2=\"582.8\" y2=\"148.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 160,
+      "svg": "<line x1=\"566.4\" y1=\"160.5\" x2=\"585.8\" y2=\"167.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 161,
+      "svg": "<line x1=\"511.2\" y1=\"332.1\" x2=\"555.3\" y2=\"258.5\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 162,
+      "svg": "<line x1=\"555.3\" y1=\"258.5\" x2=\"559.7\" y2=\"198.7\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 163,
+      "svg": "<line x1=\"559.7\" y1=\"198.7\" x2=\"544.2\" y2=\"159.6\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 164,
+      "svg": "<line x1=\"544.2\" y1=\"159.6\" x2=\"519.6\" y2=\"143.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 165,
+      "svg": "<line x1=\"519.6\" y1=\"143.4\" x2=\"499.1\" y2=\"141.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 166,
+      "svg": "<line x1=\"519.6\" y1=\"143.4\" x2=\"509.9\" y2=\"125.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 167,
+      "svg": "<line x1=\"544.2\" y1=\"159.6\" x2=\"550.9\" y2=\"131.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 168,
+      "svg": "<line x1=\"550.9\" y1=\"131.0\" x2=\"547.2\" y2=\"110.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 169,
+      "svg": "<line x1=\"550.9\" y1=\"131.0\" x2=\"563.3\" y2=\"114.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 170,
+      "svg": "<line x1=\"559.7\" y1=\"198.7\" x2=\"580.7\" y2=\"162.3\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 171,
+      "svg": "<line x1=\"580.7\" y1=\"162.3\" x2=\"580.1\" y2=\"132.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 172,
+      "svg": "<line x1=\"580.1\" y1=\"132.9\" x2=\"569.6\" y2=\"115.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 173,
+      "svg": "<line x1=\"580.1\" y1=\"132.9\" x2=\"589.8\" y2=\"114.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 174,
+      "svg": "<line x1=\"580.7\" y1=\"162.3\" x2=\"606.5\" y2=\"148.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 175,
+      "svg": "<line x1=\"606.5\" y1=\"148.1\" x2=\"614.9\" y2=\"129.4\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 176,
+      "svg": "<line x1=\"606.5\" y1=\"148.1\" x2=\"626.8\" y2=\"151.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 177,
+      "svg": "<line x1=\"555.3\" y1=\"258.5\" x2=\"606.0\" y2=\"226.4\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 178,
+      "svg": "<line x1=\"606.0\" y1=\"226.4\" x2=\"620.2\" y2=\"186.8\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 179,
+      "svg": "<line x1=\"620.2\" y1=\"186.8\" x2=\"614.0\" y2=\"158.1\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 180,
+      "svg": "<line x1=\"614.0\" y1=\"158.1\" x2=\"598.3\" y2=\"144.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 181,
+      "svg": "<line x1=\"614.0\" y1=\"158.1\" x2=\"622.8\" y2=\"139.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 182,
+      "svg": "<line x1=\"620.2\" y1=\"186.8\" x2=\"643.3\" y2=\"168.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 183,
+      "svg": "<line x1=\"643.3\" y1=\"168.6\" x2=\"652.4\" y2=\"150.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 184,
+      "svg": "<line x1=\"643.3\" y1=\"168.6\" x2=\"663.4\" y2=\"164.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 185,
+      "svg": "<line x1=\"606.0\" y1=\"226.4\" x2=\"647.8\" y2=\"230.4\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 186,
+      "svg": "<line x1=\"647.8\" y1=\"230.4\" x2=\"675.2\" y2=\"219.8\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 187,
+      "svg": "<line x1=\"675.2\" y1=\"219.8\" x2=\"688.3\" y2=\"203.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 188,
+      "svg": "<line x1=\"675.2\" y1=\"219.8\" x2=\"695.6\" y2=\"222.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 189,
+      "svg": "<line x1=\"647.8\" y1=\"230.4\" x2=\"672.8\" y2=\"245.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 190,
+      "svg": "<line x1=\"672.8\" y1=\"245.9\" x2=\"693.3\" y2=\"246.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 191,
+      "svg": "<line x1=\"672.8\" y1=\"245.9\" x2=\"682.0\" y2=\"264.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 192,
+      "svg": "<line x1=\"496.0\" y1=\"453.7\" x2=\"601.3\" y2=\"391.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 193,
+      "svg": "<line x1=\"601.3\" y1=\"391.2\" x2=\"635.7\" y2=\"312.6\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 194,
+      "svg": "<line x1=\"635.7\" y1=\"312.6\" x2=\"635.5\" y2=\"252.6\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 195,
+      "svg": "<line x1=\"635.5\" y1=\"252.6\" x2=\"618.2\" y2=\"214.3\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 196,
+      "svg": "<line x1=\"618.2\" y1=\"214.3\" x2=\"595.6\" y2=\"195.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 197,
+      "svg": "<line x1=\"595.6\" y1=\"195.4\" x2=\"575.2\" y2=\"192.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 198,
+      "svg": "<line x1=\"595.6\" y1=\"195.4\" x2=\"589.1\" y2=\"175.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 199,
+      "svg": "<line x1=\"618.2\" y1=\"214.3\" x2=\"618.9\" y2=\"184.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 200,
+      "svg": "<line x1=\"618.9\" y1=\"184.9\" x2=\"606.1\" y2=\"168.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 201,
+      "svg": "<line x1=\"618.9\" y1=\"184.9\" x2=\"632.6\" y2=\"169.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 202,
+      "svg": "<line x1=\"635.5\" y1=\"252.6\" x2=\"652.5\" y2=\"214.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 203,
+      "svg": "<line x1=\"652.5\" y1=\"214.2\" x2=\"645.7\" y2=\"185.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 204,
+      "svg": "<line x1=\"645.7\" y1=\"185.6\" x2=\"629.7\" y2=\"172.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 205,
+      "svg": "<line x1=\"645.7\" y1=\"185.6\" x2=\"654.1\" y2=\"166.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 206,
+      "svg": "<line x1=\"652.5\" y1=\"214.2\" x2=\"678.3\" y2=\"200.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 207,
+      "svg": "<line x1=\"678.3\" y1=\"200.0\" x2=\"688.8\" y2=\"182.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 208,
+      "svg": "<line x1=\"678.3\" y1=\"200.0\" x2=\"698.9\" y2=\"200.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 209,
+      "svg": "<line x1=\"635.7\" y1=\"312.6\" x2=\"679.9\" y2=\"272.0\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 210,
+      "svg": "<line x1=\"679.9\" y1=\"272.0\" x2=\"693.3\" y2=\"232.2\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 211,
+      "svg": "<line x1=\"693.3\" y1=\"232.2\" x2=\"683.0\" y2=\"204.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 212,
+      "svg": "<line x1=\"683.0\" y1=\"204.6\" x2=\"666.3\" y2=\"192.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 213,
+      "svg": "<line x1=\"683.0\" y1=\"204.6\" x2=\"687.7\" y2=\"184.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 214,
+      "svg": "<line x1=\"693.3\" y1=\"232.2\" x2=\"718.1\" y2=\"216.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 215,
+      "svg": "<line x1=\"718.1\" y1=\"216.4\" x2=\"729.1\" y2=\"199.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 216,
+      "svg": "<line x1=\"718.1\" y1=\"216.4\" x2=\"738.6\" y2=\"214.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 217,
+      "svg": "<line x1=\"679.9\" y1=\"272.0\" x2=\"720.8\" y2=\"262.1\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 218,
+      "svg": "<line x1=\"720.8\" y1=\"262.1\" x2=\"743.9\" y2=\"244.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 219,
+      "svg": "<line x1=\"743.9\" y1=\"244.0\" x2=\"750.3\" y2=\"224.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 220,
+      "svg": "<line x1=\"743.9\" y1=\"244.0\" x2=\"764.5\" y2=\"242.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 221,
+      "svg": "<line x1=\"720.8\" y1=\"262.1\" x2=\"749.7\" y2=\"267.6\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 222,
+      "svg": "<line x1=\"749.7\" y1=\"267.6\" x2=\"768.0\" y2=\"258.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 223,
+      "svg": "<line x1=\"749.7\" y1=\"267.6\" x2=\"763.2\" y2=\"283.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 224,
+      "svg": "<line x1=\"601.3\" y1=\"391.2\" x2=\"686.7\" y2=\"398.7\" stroke=\"#ff6b35\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 225,
+      "svg": "<line x1=\"686.7\" y1=\"398.7\" x2=\"743.0\" y2=\"377.8\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 226,
+      "svg": "<line x1=\"743.0\" y1=\"377.8\" x2=\"771.1\" y2=\"346.6\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 227,
+      "svg": "<line x1=\"771.1\" y1=\"346.6\" x2=\"779.6\" y2=\"318.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 228,
+      "svg": "<line x1=\"779.6\" y1=\"318.4\" x2=\"777.1\" y2=\"298.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 229,
+      "svg": "<line x1=\"779.6\" y1=\"318.4\" x2=\"792.9\" y2=\"302.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 230,
+      "svg": "<line x1=\"771.1\" y1=\"346.6\" x2=\"798.3\" y2=\"335.2\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 231,
+      "svg": "<line x1=\"798.3\" y1=\"335.2\" x2=\"810.0\" y2=\"318.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 232,
+      "svg": "<line x1=\"798.3\" y1=\"335.2\" x2=\"818.5\" y2=\"338.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 233,
+      "svg": "<line x1=\"743.0\" y1=\"377.8\" x2=\"784.7\" y2=\"383.1\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 234,
+      "svg": "<line x1=\"784.7\" y1=\"383.1\" x2=\"810.4\" y2=\"368.7\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 235,
+      "svg": "<line x1=\"810.4\" y1=\"368.7\" x2=\"822.0\" y2=\"351.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 236,
+      "svg": "<line x1=\"810.4\" y1=\"368.7\" x2=\"830.9\" y2=\"367.7\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 237,
+      "svg": "<line x1=\"784.7\" y1=\"383.1\" x2=\"806.0\" y2=\"403.4\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 238,
+      "svg": "<line x1=\"806.0\" y1=\"403.4\" x2=\"826.0\" y2=\"408.0\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 239,
+      "svg": "<line x1=\"806.0\" y1=\"403.4\" x2=\"811.6\" y2=\"423.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 240,
+      "svg": "<line x1=\"686.7\" y1=\"398.7\" x2=\"738.5\" y2=\"429.1\" stroke=\"#1a659e\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 241,
+      "svg": "<line x1=\"738.5\" y1=\"429.1\" x2=\"780.5\" y2=\"429.3\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 242,
+      "svg": "<line x1=\"780.5\" y1=\"429.3\" x2=\"806.4\" y2=\"415.3\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 243,
+      "svg": "<line x1=\"806.4\" y1=\"415.3\" x2=\"817.7\" y2=\"398.1\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 244,
+      "svg": "<line x1=\"806.4\" y1=\"415.3\" x2=\"827.0\" y2=\"415.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 245,
+      "svg": "<line x1=\"780.5\" y1=\"429.3\" x2=\"806.3\" y2=\"443.5\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 246,
+      "svg": "<line x1=\"806.3\" y1=\"443.5\" x2=\"826.9\" y2=\"443.9\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 247,
+      "svg": "<line x1=\"806.3\" y1=\"443.5\" x2=\"817.7\" y2=\"460.6\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 248,
+      "svg": "<line x1=\"738.5\" y1=\"429.1\" x2=\"759.1\" y2=\"465.7\" stroke=\"#004e89\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 249,
+      "svg": "<line x1=\"759.1\" y1=\"465.7\" x2=\"785.4\" y2=\"478.9\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 250,
+      "svg": "<line x1=\"785.4\" y1=\"478.9\" x2=\"805.9\" y2=\"477.5\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 251,
+      "svg": "<line x1=\"785.4\" y1=\"478.9\" x2=\"796.6\" y2=\"496.2\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 252,
+      "svg": "<line x1=\"759.1\" y1=\"465.7\" x2=\"756.7\" y2=\"495.0\" stroke=\"#efefd0\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 253,
+      "svg": "<line x1=\"756.7\" y1=\"495.0\" x2=\"763.9\" y2=\"514.3\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    },
+    {
+      "pattern": "fractal",
+      "index": 254,
+      "svg": "<line x1=\"756.7\" y1=\"495.0\" x2=\"746.3\" y2=\"512.8\" stroke=\"#f7c59f\" stroke-width=\"1.5\" opacity=\"0.8\"/>"
+    }
+  ],
+  "generatedAt": "2026-09-23T11:03:26.752Z"
+}
