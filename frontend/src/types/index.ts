@@ -1,4 +1,4 @@
-export type PatternType = 'spiral' | 'fractal' | 'wave' | 'circles' | 'voronoi' | 'noise'
+export type PatternType = 'spiral' | 'fractal' | 'wave' | 'circles' | 'noise'
 
 export interface DesignParams {
   pattern: PatternType
